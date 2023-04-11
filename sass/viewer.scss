@@ -3,6 +3,13 @@
     justify-content: center;
 }
 
+.navContainer{
+    display: block;
+    position: sticky;
+    float: left;
+    margin-right: 5rem;
+}
+
 .userDisplay{
     display: flex;
     justify-content: space-around;

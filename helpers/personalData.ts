@@ -152,4 +152,11 @@ export const myData = {
       emition: "2020",
     },
   ],
+
+  projects: [
+    {
+      title: "",
+      subtitulo: "",
+    },
+  ],
 };
